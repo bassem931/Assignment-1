@@ -16,4 +16,5 @@ the second assignment is the classification for the 2014 accidents dataset. data
 
 1. naive bayes is very simple to tune its hyperparameters and fast to train but it always predict the majority class
 2. KNN mostly predicts the majority class as well and is more computationally expensive
-3. logistic regression were a bit better but they need more tuning and effort to be better
+3. neural networks and logistic regression were a bit better but they need more tuning and effort to be better with neural networks having more potential
+4. all were tested with f1 score macro since accuracy was not a logical performance metric in our case
