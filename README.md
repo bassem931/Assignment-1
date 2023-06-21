@@ -12,4 +12,8 @@ The clustering project is the first assignment or mini project in the course. Th
 
 ## classification project (assignment 2)
 
-the second assignment is the classification for the 2014 accidents dataset. data cleaning and encoding was done to the dataset then the output csv was used
+the second assignment is the classification for the 2014 accidents dataset. data cleaning and encoding was done to the dataset then the output csv was used in the four different classifiers and here are the conclusions reahced
+
+1. naive bayes is very simple to tune its hyperparameters and fast to train but it always predict the majority class
+2. KNN mostly predicts the majority class as well and is more computationally expensive
+3. logistic regression were a bit better but they need more tuning and effort to be better
